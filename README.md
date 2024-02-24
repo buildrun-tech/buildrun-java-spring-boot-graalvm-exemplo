@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-  Backend de um Agregador de Investimentos
+  GraalVM e Spring Boot na prática!
 </h3>
 
 <p align="center">

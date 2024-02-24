@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/buildrun-tech/buildrun-java-spring-boot-graalvm-exemplo/blob/main/images/k52X6F9e_400x400.png"> 
+    <img width="20%" src="https://github.com/buildrun-tech/buildrun-java-spring-boot-graalvm-exemplo/blob/main/images/k52X6F9e_400x400.png"> 
 </p>
 
 

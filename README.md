@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/blob/master/images/stock-market.jpg"> 
+    <img width="50%" src="https://github.com/buildrun-tech/buildrun-java-spring-boot-graalvm-exemplo/blob/master/images/k52X6F9e_400x400.png"> 
 </p>
 
 
@@ -18,18 +18,6 @@
 [Se inscreva em nosso canal no Youtube!](https://www.youtube.com/@buildrun-tech?sub_confirmation=1)
 
 Para um maior entendimento do código deste repositório, acompanhe nossa série de vídeos:
-
-## Benchmark (Default Configuration)
-
-| Runtime     | Memory  | Total Requests  | Requests per Second    | Latency Max | Error Rate  |
-|-------------|---------|-----------------|------------------------|-------------|-------------|
-| 1° JVM      | 100 MB  | 404604          | 6735.5                 | 213         | 0%          |
-| 2° JVM      | 100 MB  | 428869          | 7139.7                 | 201         | 0%          |
-| 3° JVM      | 100 MB  | 458290          | 7630.6                 | 216         | 0%          |
-| 1° GraalVM  | 100 MB  | 55601           | 921.6                  | 284         | 0.001%      |
-| 2° GraalVM  | 100 MB  | 54949           | 911.4                  | 287         | 0.001%      |
-| 3° GraalVM  | 100 MB  | 54973           | 911.7                  | 287         | 0.09%       |
-
 
 ## Como compilar o seu código para a GraalVM?
 

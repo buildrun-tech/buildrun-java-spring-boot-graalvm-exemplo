@@ -17,7 +17,8 @@
 
 [Se inscreva em nosso canal no Youtube!](https://www.youtube.com/@buildrun-tech?sub_confirmation=1)
 
-Para um maior entendimento do código deste repositório, acompanhe nossa série de vídeos:
+Para um maior entendimento do código deste repositório, [assista nosso vídeo no Youtube, clique aqui.](https://www.youtube.com/watch?v=IBhao06sYek)
+
 
 ## Como compilar o seu código para a GraalVM?
 
@@ -31,7 +32,7 @@ Para um maior entendimento do código deste repositório, acompanhe nossa série
 
 1. Execute o seu projeto dentro da JVM com a seguinte VM Option:
 ```VM Option
--agentlib:native-image-agent=config-output-dir=app/src/main/resources/META-INF/native-image
+-agentlib:native-image-agent=config-output-dir=src/main/resources/META-INF/native-image
 ```
 2. Após a aplicação subir, execute um teste funcional (fluxo de sucesso e erro) para que o profiling detecte os possíveis caminhos da aplicação
 3. Após os seus testes, pode parar o projeto, será gerado um profiling neste caminho `/src/main/resources/META-INF/native-image` para a GraalVM
